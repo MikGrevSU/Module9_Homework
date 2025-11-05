@@ -1,0 +1,4 @@
+username=Admin
+theme=dark
+timeout=30
+language=ru

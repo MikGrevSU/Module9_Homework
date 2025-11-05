@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#\CsLab\bin\Debug\net8.0\CsLab.exe
+C:\Users\User\Desktop\c#\CsLab\bin\Debug\net8.0\CsLab.deps.json
+C:\Users\User\Desktop\c#\CsLab\bin\Debug\net8.0\CsLab.runtimeconfig.json
+C:\Users\User\Desktop\c#\CsLab\bin\Debug\net8.0\CsLab.dll
+C:\Users\User\Desktop\c#\CsLab\bin\Debug\net8.0\CsLab.pdb
+C:\Users\User\Desktop\c#\CsLab\obj\Debug\net8.0\CsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\CsLab\obj\Debug\net8.0\CsLab.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\CsLab\obj\Debug\net8.0\CsLab.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\CsLab\obj\Debug\net8.0\CsLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\CsLab\obj\Debug\net8.0\CsLab.sourcelink.json
+C:\Users\User\Desktop\c#\CsLab\obj\Debug\net8.0\CsLab.dll
+C:\Users\User\Desktop\c#\CsLab\obj\Debug\net8.0\refint\CsLab.dll
+C:\Users\User\Desktop\c#\CsLab\obj\Debug\net8.0\CsLab.pdb
+C:\Users\User\Desktop\c#\CsLab\obj\Debug\net8.0\CsLab.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\CsLab\obj\Debug\net8.0\ref\CsLab.dll
